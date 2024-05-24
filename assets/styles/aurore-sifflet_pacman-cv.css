@@ -29,7 +29,9 @@ h2 {
 .row {
   margin-bottom: 10px;
 }
-
+#scoreH2 {
+  margin-bottom: 30px;
+}
 #imageCV{
   width: 100%;
  
